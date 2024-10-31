@@ -1,6 +1,6 @@
 # desenho-animado
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang=portugues >
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -17,10 +17,11 @@
   <p>Bob Esponja é uma esponja marinha bondosa, otimista, alegre, ingênua e amigável que mora na cidade submarina da Fenda do Biquíni juntamente com diversas criaturas antropomórficas.</p>
 </body>
 </html>
-    <img src="BobEsponja.jpeg" alt="Trote:!![image](https://github.com/user-attachments/assets/0ccd99a5-0055-448b-877f-06a38f18125a)
+    <img src="BobEsponja.jpeg" alt="Trote:!![image]. (https://github.com/user-attachments/assets/0ccd99a5-0055-448b-877f-06a38f18125a) 
 
  " width="600" height="400">
-    <p>!![image](https://github.com/user-attachments/assets/9f3935b3-2a15-42f6-80ae-ecfce943c292)
+    <p>!![image](https://github.com/user-attachments/assets/e09d4689-2fcc-49f2-81af-182706aa917c)
+
 
 <p>
 </body>
