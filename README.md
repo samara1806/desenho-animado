@@ -17,7 +17,7 @@
   <p>Bob Esponja é uma esponja marinha bondosa, otimista, alegre, ingênua e amigável que mora na cidade submarina da Fenda do Biquíni juntamente com diversas criaturas antropomórficas.</p>
 </body>
 </html>
-    <img src="BobEsponja.jpeg" alt="Trote:! ![image](https://github.com/user-attachments/assets/f59d2f3f-9564-4c15-aa94-42a39eba4a7f)
+    <img src="BobEsponja.jpeg" alt="Trote:!https://github.com/samara1806/desenho-animado.wiki.git
 
 
  " width="600" height="400"><p>!![image](https://github.com/user-attachments/assets/91b75246-31bb-486a-ba30-ca43d8ae1454)
