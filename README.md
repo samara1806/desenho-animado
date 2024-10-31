@@ -19,7 +19,8 @@
 </html>
     <img src="BobEsponja.jpeg" alt="Trote:!![image]. (https://github.com/user-attachments/assets/0ccd99a5-0055-448b-877f-06a38f18125a) 
 
- " width="600" height="400"><p>!![image](https://github.com/user-attachments/assets/4c6b54f0-0ef6-4e0f-a85b-02e1378e1cda)
+ " width="600" height="400"><p>!![image](https://github.com/user-attachments/assets/91b75246-31bb-486a-ba30-ca43d8ae1454)
+
 <p>
 </body>
 </html>
