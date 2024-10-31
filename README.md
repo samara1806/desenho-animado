@@ -18,6 +18,7 @@
 </body>
 </html>
     <img src="BobEsponja.jpeg" alt="Trote: descricao da imagem" width="600" height="400">
-    <p>Texto da imagem<p>
+    <p>![image](https://github.com/user-attachments/assets/40720b7c-3976-448d-92ad-0bac38f3a213)
+<p>
 </body>
 </html>
